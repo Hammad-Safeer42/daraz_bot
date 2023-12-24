@@ -19,4 +19,4 @@ Welcome to the Daraz Shopping Bot repository! This Python script leverages Selen
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/daraz-shopping-bot.git
+   git clone https://github.com/Hammad-Safeer42/daraz_bot.git
